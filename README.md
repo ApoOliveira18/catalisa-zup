@@ -21,7 +21,7 @@
 
 <p align="center" vetical-aling="top"> 
  <img  src="src/assets/bootstrap/images/ingMd1.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
- <img  src="src/assets/bootstrap/images/intMd2.png" alt="Interface PJM" title="Interface PJM" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="src/assets/bootstrap/images/intMd2.png" alt="Interface PJM" title="Interface PJM" width="320" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src="src/assets/bootstrap/images/intMd4.png" alt="Interface PJM" title="Interface PJM" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
