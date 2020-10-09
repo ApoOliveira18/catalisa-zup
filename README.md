@@ -38,9 +38,10 @@
 <ul>	
 <li> Angular2 pela primeira vez!</li>
 <li> Maldito Cors e sangria de CSS nos componentes</li>
-<li> O VLibras traduziu "Que a força esteja com vocês"</li>
+<li> O VLdibras traduziu "Que a força esteja com vocês"</li>
 <li> Bootstrap parece não ter sido feito para Angular</li>
 <li> Publiquei um velho game para o avaliador se desestressar!</li>
+<li> O logotipo, o R2D2 e o C3PO do rodapé eu mesmo vetorizei. :)</li>
 </ul>
 
 <p align="center">
@@ -54,18 +55,17 @@
 
 Este projeto foi desenvolvido com  as seguintes tecnologias:
 
-- [PHP](https://www.php.net/)
+- [Angular](https://angular.io/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://devdocs.io/html/) 
 - [CSS3](https://devdocs.io/css/)
-- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-syntax-data-definition.html)
+- [Json](https://www.json.org/json-en.html)
 
 ## :Softwares
 
 Os seguintes softwares foram utilizados neste projeto:
 
-- [VsCode](https://code.visualstudio.com/download) 
-- [Xamp](https://www.apachefriends.org/pt_br/download.html)
+- [VsCode](https://code.visualstudio.com/download)
 - [Adobe](https://www.adobe.com/pt/creativecloud.html)
 - [Figma](https://www.figma.com/)
 
@@ -81,7 +81,7 @@ Artigos que estou a publicar no Medium que explica resumidamente cada metodologi
 
 ## :information_source: Como Usar
 
-Para executar essa aplicação você vai precisar de Xamp 3.2.1, PHP 5.3, MySQL Server 5.5 e o banco de dados do projeto para carregar os inserts do mesmo.
+Para executar essa aplicação basta fazer um git clone da mesma e depois executar o npm install para instalar as dependências ou yarn dependendo do gerenciador de pacotes.
 
 ## :memo: Licença
 Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
