@@ -107,5 +107,5 @@ Feito com ♥ && 🎧 && 😊 || 😥
  
 [nodejs]: https://nodejs.org
 [angular]: https://angular.io
-[npm]: https://https://www.npmjs.com
+[npm]: https://www.npmjs.com
 
