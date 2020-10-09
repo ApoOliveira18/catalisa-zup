@@ -34,9 +34,9 @@
 
 ## 💻 Projeto
 <p>
-    Este pequeno projeto foi desenvolvido em 3 dias usnado Angular2 (v10), linguagem com a qual nunca havia trabalhado. Envolve conceitos de rotas, componentes, services, lazy landing, consumo de duas APIs públicas, sendo que a Starwars API eu mesmo publiquei em um CDN pois a que encontrei não estava ativa em um, portanto decidi publicar a minha versão. Maldito CORS, perdi meio dia com ele, sem contorná-lo o servidor restringia acesso a API. Também fiz consumo da API do Github, porisso tem uma página do site dedicada a mostrar meus projetos publicados no github. Também há integração com o Bootstrap ( oh, a sangria de css nos componentes!) sendo o site totalmente responsivo, e como o Catalisa é um programa para PCDs, foi incluso o VLibras para dar suporte à acessibilidade. </p>
+    Este pequeno projeto foi desenvolvido em 3 dias usando Angular, linguagem com a qual nunca havia trabalhado. Envolve conceitos de rotas, componentes, services, lazy landing, consumo de duas APIs públicas, sendo que a Starwars API eu mesmo publiquei em um CDN pois a que encontrei não estava ativa em um, portanto decidi publicar a minha versão. Maldito CORS, perdi meio dia com ele, sem contorná-lo o servidor restringia acesso a API. Também fiz consumo da API do Github, porisso tem uma página do site dedicada a mostrar meus projetos publicados no github. Também há integração com o Bootstrap ( oh, a sangria de css nos componentes!) sendo o site totalmente responsivo, e como o Catalisa é um programa para PCDs, foi incluso o VLibras para dar suporte à acessibilidade. </p>
 <ul>	
-<li> Angular2 pela primeira vez!</li>
+<li> Angular pela primeira vez!</li>
 <li> Maldito Cors e sangria de CSS nos componentes</li>
 <li> O VLdibras traduziu "Que a força esteja com vocês"</li>
 <li> Bootstrap parece não ter sido feito para Angular</li>
