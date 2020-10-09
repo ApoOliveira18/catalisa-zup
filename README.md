@@ -81,7 +81,21 @@ Artigos que estou a publicar no Medium que explica resumidamente cada metodologi
 
 ## :information_source: Como Usar
 
-Para executar essa aplicação basta fazer um git clone da mesma e depois executar o npm install para instalar as dependências ou yarn dependendo do gerenciador de pacotes.
+Para clonar a aplicação, você necessitará do [Git](https://git-scm.com), [NPM][npm] + [Angular CLI][angular] instalados em seu computador.
+
+From your command line:
+
+### Install API
+```bash
+# Clone this repository
+$ git clone https://github.com/ApoOliveira18/cataliza-zup.git
+# Go into the repository
+$ cd cataliza-zup/
+
+# Install dependencies for directories
+$npm install
+
+```
 
 ## :memo: Licença
 Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
