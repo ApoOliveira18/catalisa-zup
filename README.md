@@ -7,12 +7,12 @@
 ## 🔖 Algumas Interfaces 
 <p align="center" vetical-aling="top">
  <img  src="src/assets/bootstrap/images/intLarger1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img  src="assets/intLarger2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="src/assets/bootstrap/images/intLarger2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="assets/int4.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ <img  src="src/assets/bootstrap/images/intLarger3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="src/assets/bootstrap/images/intLarger4.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <p align="center" vetical-aling="top"> 
