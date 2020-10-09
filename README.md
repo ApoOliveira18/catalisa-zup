@@ -4,7 +4,7 @@
 	:heavy_check_mark:  Desafio do programa do 1º Programa Catalisa da ZUP - Consumos de APIs Públicas - StarWars API e GitHub API :heavy_check_mark:
 </h4>
 
-## 🔖 Algumas Interfaces 
+## 🔖 Algumas Interfaces no Desktop - Ipad - Iphone
 <p align="center" vetical-aling="top">
  <img  src="src/assets/bootstrap/images/intLarger1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src="src/assets/bootstrap/images/intLarger2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,14 +34,13 @@
 
 ## 💻 Projeto
 <p>
-    Este projeto visa permitir o gerenciamento e controle dos pedidos, estoque e caixa para gerar
-sinergia e resultados positivos para a empresa, além de:</p>
+    Este pequeno projeto foi desenvolvido em 3 dias usnado Angular2 (v10), linguagem com a qual nunca havia trabalhado. Envolve conceitos de rotas, componentes, services, lazy landing, consumo de duas APIs públicas, sendo que a Starwars API eu mesmo publiquei em um CDN pois a que encontrei não estava ativa em um, portanto decidi publicar a minha versão. Maldito CORS, perdi meio dia com ele, sem contorná-lo o servidor restringia acesso a API. Também fiz consumo da API do Github, porisso tem uma página do site dedicada a mostrar meus projetos publicados no github. Também há integração com o Bootstrap ( oh, a sangria de css nos componentes!) sendo o site totalmente responsivo, e como o Catalisa é um programa para PCDs, foi incluso o VLibras para dar suporte à acessibilidade. </p>
 <ul>	
-<li> Atingir uma melhoria nas vendas dos estabelecimentos.</li>
-<li> Organizar o atendimento dos clientes.</li>
-<li> Organizar os processos de produção dos alimentos na cozinha.</li>
-<li> Ter um sistema de um custo muito baixo e que traga um alto benefício.</li>
-<li> Ser um sistema leve e de fácil manutenção.</li>
+<li> Angular2 pela primeira vez!</li>
+<li> Maldito Cors e sangria de CSS nos componentes</li>
+<li> O VLibras traduziu "Que a força esteja com vocês"</li>
+<li> Bootstrap parece não ter sido feito para Angular</li>
+<li> Publiquei um velho game para o avaliador se desestressar!</li>
 </ul>
 
 <p align="center">
