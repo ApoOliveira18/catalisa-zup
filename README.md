@@ -105,9 +105,7 @@ Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 Feito com ♥ && 🎧 && 😊 || 😥 
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
  
-[nodejs]: https://nodejs.org/
-[vc]: https://code.visualstudio.com/
-[angular]: https://https://angular.io/
-[npm]: https://https://www.npmjs.com/
-[typescript]: https://www.typescriptlang.org/docs/home.html
+[nodejs]: https://nodejs.org
+[angular]: https://angular.io
+[npm]: https://https://www.npmjs.com
 
