@@ -1,4 +1,4 @@
-<h1 align="center"><img src="SistemaGerRestaurante/assets/pdv/img/Sanja2.png" alt="Logotipo" width="250"/></h1>
+<h1 align="center"><img src="src/assets/bootstrap/images/lg-196x94.png" alt="Logotipo" width="250"/></h1>
 
 <h4 align="center"> 
 	:heavy_check_mark:  Sistema de Gerenciamentos de Restaurantes Sanja Pizza :heavy_check_mark:
