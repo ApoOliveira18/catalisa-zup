@@ -1,28 +1,95 @@
-# ProjetoCatalisa
+<h1 align="center"><img src="SistemaGerRestaurante/assets/pdv/img/Sanja2.png" alt="Logotipo" width="250"/></h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
+<h4 align="center"> 
+	:heavy_check_mark:  Sistema de Gerenciamentos de Restaurantes Sanja Pizza :heavy_check_mark:
+</h4>
 
-## Development server
+## 🔖 Algumas Interfaces 
+<p align="center" vetical-aling="top">
+ <img  src="assets/int1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="assets/int2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p align="center" vetical-aling="top"> 
+ <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int4.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
 
-## Code scaffolding
+<p align="center" vetical-aling="top"> 
+ <img  src="assets/int5.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="assets/int6.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int7.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+</p> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center" vetical-aling="top"> 
+ <img  src="assets/int8.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+  <img  src="assets/int9.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+</p>
 
-## Build
+<p align="center" vetical-aling="top"> 
+  <img  src="assets/int10.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int11.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int12.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 💻 Projeto
+<p>
+    Este projeto visa permitir o gerenciamento e controle dos pedidos, estoque e caixa para gerar
+sinergia e resultados positivos para a empresa, além de:</p>
+<ul>	
+<li> Atingir uma melhoria nas vendas dos estabelecimentos.</li>
+<li> Organizar o atendimento dos clientes.</li>
+<li> Organizar os processos de produção dos alimentos na cozinha.</li>
+<li> Ter um sistema de um custo muito baixo e que traga um alto benefício.</li>
+<li> Ser um sistema leve e de fácil manutenção.</li>
+</ul>
 
-## Running unit tests
+<p align="center">
+  <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Metodologias">Metodologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## :Tecnologias
 
-## Running end-to-end tests
+Este projeto foi desenvolvido com  as seguintes tecnologias:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- [PHP](https://www.php.net/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://devdocs.io/html/) 
+- [CSS3](https://devdocs.io/css/)
+- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-syntax-data-definition.html)
 
-## Further help
+## :Softwares
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# catalisa-zup
+Os seguintes softwares foram utilizados neste projeto:
+
+- [VsCode](https://code.visualstudio.com/download) 
+- [Xamp](https://www.apachefriends.org/pt_br/download.html)
+- [Adobe](https://www.adobe.com/pt/creativecloud.html)
+- [Figma](https://www.figma.com/)
+
+
+## :Metodologias
+
+Artigos que estou a publicar no Medium que explica resumidamente cada metodologia utilizada :
+
+- [Design UX](#) 
+- [Design Sprint](#)
+- [Design UI](#)
+- [Scrum](#)
+
+## :information_source: Como Usar
+
+Para executar essa aplicação você vai precisar de Xamp 3.2.1, PHP 5.3, MySQL Server 5.5 e o banco de dados do projeto para carregar os inserts do mesmo.
+
+## :memo: Licença
+Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
+
+---
+
+Feito com ♥ && 🎧 && 😊 || 😥 
+ por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
+
