@@ -20,7 +20,7 @@
 </p> 
 
 <p align="center" vetical-aling="top"> 
- <img  src="assets/int8.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+ <img  src="src/assets/bootstrap/images/intMed1.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
   <img  src="assets/int9.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
