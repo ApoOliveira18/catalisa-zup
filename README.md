@@ -20,9 +20,9 @@
 </p> 
 
 <p align="center" vetical-aling="top"> 
- <img  src="src/assets/bootstrap/images/intMed1.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-  <img  src="assets/int9.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
+ <img  src="src/assets/bootstrap/images/ingMd1.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+ <img  src="src/assets/bootstrap/images/intMd2.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="src/assets/bootstrap/images/intMd3.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <p align="center" vetical-aling="top"> 
