@@ -1,7 +1,7 @@
 <h1 align="center"><img src="src/assets/bootstrap/images/lg-196x94.png" alt="Logotipo" width="250"/></h1>
 
 <h4 align="center"> 
-	:heavy_check_mark:  Desafio do programa do 1º Programa Catalisa da ZUP - Consumos de APIs Públicas :heavy_check_mark:
+	:heavy_check_mark:  Desafio do programa do 1º Programa Catalisa da ZUP - Consumos de APIs Públicas - StarWars API e GitHub API :heavy_check_mark:
 </h4>
 
 ## 🔖 Algumas Interfaces 
