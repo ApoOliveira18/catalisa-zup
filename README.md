@@ -1,7 +1,7 @@
 <h1 align="center"><img src="src/assets/bootstrap/images/lg-196x94.png" alt="Logotipo" width="250"/></h1>
 
 <h4 align="center"> 
-	:heavy_check_mark:  Sistema de Gerenciamentos de Restaurantes Sanja Pizza :heavy_check_mark:
+	:heavy_check_mark:  Desafio do programa do 1º Programa Catalisa da ZUP - Consumos de APIs Públicas :heavy_check_mark:
 </h4>
 
 ## 🔖 Algumas Interfaces 
@@ -16,9 +16,7 @@
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="assets/int5.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img  src="assets/int6.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="assets/int7.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+ <img  src="src/assets/bootstrap/images/intLarger5.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 </p> 
 
 <p align="center" vetical-aling="top"> 
