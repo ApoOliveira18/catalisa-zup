@@ -16,7 +16,7 @@
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="src/assets/bootstrap/images/intLarger5.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+ <img  src="src/assets/bootstrap/images/intLarger5.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 </p> 
 
 <p align="center" vetical-aling="top"> 
