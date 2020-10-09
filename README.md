@@ -26,7 +26,7 @@
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="src/assets/bootstrap/images/ingMob1.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+ <img  src="src/assets/bootstrap/images/intMob1.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
  <img  src="src/assets/bootstrap/images/intMob3.png"  alt="Interface PJM" title="Interface PJM" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
